@@ -1,0 +1,7 @@
+.tarjeta{
+    border: 1px solid black;
+}
+#conteiner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
